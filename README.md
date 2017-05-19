@@ -1,4 +1,4 @@
-透過 Win32 EnumWindows 和 GetWindowText 取得所有執行程式的hWnd還有標提
+透過 Win32 EnumWindows 和 GetWindowText 取得所有執行程式的hWnd還有標題
 
 ![alt 預覽](https://github.com/donma/GetAllWindowsHwnd/blob/master/sample.jpg?raw=true)
 
